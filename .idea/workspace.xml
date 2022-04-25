@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9c46f36-83be-42fc-9908-6b660b6d3ab0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="280uYLPhFxZVJHiUDL8EsbQtWcA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="C:/Roland" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9c46f36-83be-42fc-9908-6b660b6d3ab0" name="Default Changelist" comment="" />
+      <created>1650365871419</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650365871419</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2568" y="340" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1650377864801">
+      <screen x="1920" y="0" width="1600" height="900" />
+    </state>
+    <state x="2568" y="340" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.864/1920.0.1600.900@1920.0.1600.900" timestamp="1650377864801" />
+    <state x="557" y="198" key="FileChooserDialogImpl" timestamp="1650455197701">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="557" y="198" key="FileChooserDialogImpl/0.0.1536.864/1920.0.1600.900@0.0.1536.864" timestamp="1650455197701" />
+    <state x="2500" y="206" key="FileChooserDialogImpl/0.0.1536.864/1920.0.1600.900@1920.0.1600.900" timestamp="1650377849573" />
+  </component>
+</project>
