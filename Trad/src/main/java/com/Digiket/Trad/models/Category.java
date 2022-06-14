@@ -19,8 +19,7 @@ public class Category {
     private String cat;
 
 
-    public Category() {
-    }
+  
 
     public Long getId() {
         return cat_id;

@@ -1,5 +1,5 @@
 package com.Digiket.Trad.repository;
-import java.util.Collection;
+
 import java.util.List;
 
 import com.Digiket.Trad.models.Trad;
